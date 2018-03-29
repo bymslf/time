@@ -23,6 +23,8 @@ final class Time
 
     const SIX_HOURS = 21600;
 
+    const FORTY_TWO_HOURS = 151200;
+
     const DAY = 86400;
 
     const TWO_DAYS = 172800;
